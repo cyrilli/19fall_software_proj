@@ -5,11 +5,11 @@ The baseline fuzzer is adopted from the [fuzzingbook](https://www.fuzzingbook.or
 To run the experiments, run main.py file. Variable n is the number of inputs to try.
 
 Requirements:
-matplotlib
-numpy
-scipy
-pandas
-graphviz
-svglib
-selenium
-jupyter_contrib_nbextensions
+- matplotlib
+- numpy
+- scipy
+- pandas
+- graphviz
+- svglib
+- selenium
+- jupyter_contrib_nbextensions
